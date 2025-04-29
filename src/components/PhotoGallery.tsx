@@ -3,27 +3,27 @@ import { X } from 'lucide-react';
 
 const photos = [
   {
-    url: "g8.jpg",
+    url: "src/components/g8.jpg",
     caption: "Our fun moments with cute filters"
   },
   {
-    url: "g1.jpg",
+    url: "src/components/g9.jpg",
     caption: "Sunday afternoon together - April 2025"
   },
   {
-    url: "/images/couple-3.jpg",
+    url: "src/components/g1.jpg",
     caption: "Just us being us ❤️"
   },
   {
-    url: "/images/couple-4.jpg",
+    url: "src/components/g2.jpg",
     caption: "Mask on, love never off"
   },
   {
-    url: "/images/couple-5.jpg",
+    url: "src/components/g6.jpg",
     caption: "Our perfect Sunday"
   },
   {
-    url: "/images/couple-6.jpg",
+    url: "src/components/g7.jpg",
     caption: "Playful moments with filters"
   }
 ];
